@@ -1,0 +1,22 @@
+_repo: Boy-Scouts-in-the-Coal-Caverns-Or-The-Light-in-Tunnel-Six_6338
+creator:
+  author:
+    agent_name: Fletcher, Archibald Lee
+    gutenberg_agent_id: '4406'
+    url: http://www.gutenberg.org/2009/agents/4406
+description: ''
+gutenberg_bookshelf: Children's Book Series
+gutenberg_issued: '2004-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6338'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Coal mines and mining -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Boy Scouts -- Juvenile fiction'
+title: Boy Scouts in the Coal Caverns; Or, The Light in Tunnel Six
+url: http://www.gutenberg.org/ebooks/6338
